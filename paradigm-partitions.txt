@@ -1,0 +1,419 @@
+LID	Language	Stock	Category	SlotsN	Partition	HostCat	Position.binned5	Behavior.binned4
+2031	Mugil	Madang	Atr	3	[4, 1]	V	post	NA
+3096	Dogon (Nanga)	Dogon	Atr	2	[5]	V	post	NA
+113	Ineseño	Chumashan	Aditr	3	[2, 2]	V	prae	NA
+2551	Atikamekw	Algic	P	7	[3, 2, 2, 2, 2, 1, 1]	V	post	NA
+57	Chuvash	Turkic	Atr	2	[6, 5]	V	post	NA
+549	Latvian	Indo-European	Atr	1	[6]	V	post	NA
+2548	Teso	Nilotic	S	3	[5, 1]	V	post	NA
+2996	Yakkha	Sino-Tibetan	P	13	[1, 1, 1, 1, 1, 1, 1]	V	post	NA
+480	Amanab	Border	S	1	[2]	V	prae	NA
+1704	Kamaiurá	Tupian	S	1	[7]	V	prae	NA
+533	Quechua (Imbabura)	Quechuan	Atr	2	[5]	V	post	NA
+26	Asmat	Macro-Ok	Atr	2	[5]	V	post	NA
+1791	Baale	Surmic	S	3	[6, 1]	V	post	NA
+1750	Kharia	Austroasiatic	Atr	2	[10]	V	post	NA
+1413	Chai	Surmic	P	5	[3]	V	post	NA
+563	Passamaquoddy	Algic	S	12	[3, 2, 2, 1, 1]	V	post	NA
+12	Ainu	Ainu	P	3	[2, 2]	V	prae	NA
+456	Persian	Indo-European	Aditr	2	[6, 5]	V	NA	NA
+688	Cora	Uto-Aztecan	Atr	2	[5]	V	prae	NA
+1036	Blackfoot	Algic	S	7	[2, 2, 2, 1, 1]	V	post	NA
+2668	Munsee	Algic	Atr	8	[3, 2, 2, 2, 1]	V	post	NA
+1142	Cheyenne	Algic	S	7	[3, 3, 3]	V	prae	NA
+480	Amanab	Border	Aditr	1	[2]	V	prae	NA
+2980	Koyi	Sino-Tibetan	P	4	[6, 5, 1]	V	post	NA
+54	Choctaw	Muskogean	Atr	4	[4, 4, 3, 1]	V	prae	NA
+460	Jacaltec	Mayan	P	2	[4]	V	prae	NA
+648	Bororo	Macro-Ge	S	1	[6]	V	prae	NA
+340	Russian	Indo-European	Atr	2	[9]	V	post	NA
+679	Udmurt	Uralic	Atr	2	[6, 5]	V	post	NA
+563	Passamaquoddy	Algic	Atr	12	[3, 3, 3, 2, 1, 1]	V	post	NA
+27	Atakapa	Atakapa	P	2	[6]	V	prae	NA
+25	Armenian (Eastern)	Indo-European	Atr	1	[6]	V	post	NA
+388	Tzutujil	Mayan	P	2	[5]	V	prae	NA
+2865	Wambule	Sino-Tibetan	P	3	[9, 2, 1]	V	post	NA
+1645	Anamuxra	Madang	G	4	[9]	V	prae	NA
+12	Ainu	Ainu	S	3	[3, 1]	V	prae	NA
+3010	Lohorung	Sino-Tibetan	Atr	7	[3, 2, 2, 1]	V	post	NA
+186	Mixtec (Chalcatongo)	Otomanguean	S	1	[4]	V	post	NA
+667	Thulung (Mukli)	Sino-Tibetan	P	6	[4, 3, 1, 1, 1]	V	post	NA
+571	Tamazight (Ayt Ndhir)	Berber	S	2	[4, 3]	V	prae	NA
+2980	Koyi	Sino-Tibetan	S	4	[5, 2, 1]	V	post	NA
+1063	Baure	Arawakan	P	2	[2]	V	post	NA
+3018	Alaba-K’abeena	Cushitic	S	1	[6]	V	NA	NA
+2098	Mursi	Surmic	Atr	3	[5, 1]	V	post	NA
+679	Udmurt	Uralic	S	2	[6, 5]	V	post	NA
+1036	Blackfoot	Algic	Atr	7	[2, 2, 2, 1, 1, 1]	V	prae	NA
+3062	Iyo	Finisterre-Huon	Aditr	5	[5]	V	post	NA
+1155	Cakchiquel	Mayan	S	2	[5]	V	prae	NA
+3096	Dogon (Nanga)	Dogon	Aditr	2	[5]	V	post	NA
+1973	Menomini	Algic	Atr	11	[3, 3, 2, 2, 2, 1, 1]	V	post	NA
+908	Athpare	Sino-Tibetan	S	10	[2, 2, 1, 1]	V	prae	NA
+885	Amuesha	Arawakan	Aditr	3	[4, 1]	V	prae	NA
+1348	Nubian (Kunuz)	Nubian	Aditr	7	[4]	V	post	NA
+388	Tzutujil	Mayan	Atr	2	[6]	V	prae	NA
+103	Hua	Eastern Highlands	P	3	[6]	V	prae	NA
+79	French (colloquial)	Indo-European	Aditr	1	[2]	V	post	NA
+2772	Koegu	Surmic	S	2	[2, 2]	V	post	NA
+583	Hebrew (Modern)	Semitic	Atr	1	[4]	V	post	NA
+322	Oksapmin	Macro-Ok	G	2	[2]	V	prae	NA
+322	Oksapmin	Macro-Ok	P	2	[2]	V	prae	NA
+885	Amuesha	Arawakan	S	3	[4, 1]	V	prae	NA
+1704	Kamaiurá	Tupian	P	1	[8]	V	prae	NA
+1348	Nubian (Kunuz)	Nubian	S	7	[4]	V	post	NA
+3093	Dogon (Najamba)	Dogon	Aditr	1	[5]	V	post	NA
+682	Yucatec	Mayan	Atr	5	[4, 2]	V	prae	NA
+79	French (colloquial)	Indo-European	S	1	[2]	V	post	NA
+2028	Manambu	Sepik	S	1	[9]	V	post	NA
+2628	Tobati	Austronesian	S	2	[4]	V	prae	NA
+1010	Binandere	Greater Binanderean	Atr	2	[3]	V	post	NA
+3040	Tamashek (Mali)	Berber	Atr	2	[4, 3]	V	prae	NA
+2251	Olo	Torricelli	S	3	[7]	V	prae	NA
+923	Arapaho	Algic	S	5	[9, 1]	V	post	NA
+1105	Chortí	Mayan	S	3	[5, 5, 1]	V	prae	NA
+1010	Binandere	Greater Binanderean	S	2	[3]	V	post	NA
+632	Hayu	Sino-Tibetan	Atr	5	[3, 2, 1, 1]	V	post	NA
+2869	Yagaria	Eastern Highlands	S	3	[7]	V	post	NA
+2028	Manambu	Sepik	T	1	[9]	V	post	NA
+1763	Khakas	Turkic	S	4	[5]	V	post	NA
+103	Hua	Eastern Highlands	G	3	[6]	V	prae	NA
+337	Quiche	Mayan	S	2	[5]	V	prae	NA
+103	Hua	Eastern Highlands	Atr	3	[3, 3]	V	NA	NA
+393	Usan	Madang	G	1	[5]	V	prae	NA
+2063	Majang	Surmic	S	1	[6]	V	post	NA
+2251	Olo	Torricelli	P	3	[4, 1]	V	split	NA
+3092	Dogon (Ben Tey)	Dogon	Atr	1	[5]	V	post	NA
+559	Murle	Surmic	Atr	6	[6, 3, 1]	V	post	NA
+429	Zuni	Zuni	S	2	[1, 1]	V	prae	NA
+2862	Chintang	Sino-Tibetan	P	13	[3, 2, 2, 1, 1]	V	post	NA
+1775	Kulung	Sino-Tibetan	S	5	[4, 2, 1]	V	post	NA
+2172	Nganasan	Uralic	S	2	[9]	V	post	NA
+3250	Xingú Asuriní	Tupian	P	1	[2]	V	prae	NA
+3261	Tapirapé	Tupian	S	1	[5]	V	prae	NA
+337	Quiche	Mayan	P	2	[5]	V	prae	NA
+332	Pipil	Uto-Aztecan	Atr	3	[3, 1]	V	prae	NA
+1136	Chontal Maya	Mayan	G	5	[2]	V	post	NA
+1063	Baure	Arawakan	S	2	[6]	V	prae	NA
+2863	Puma	Sino-Tibetan	Atr	8	[4, 3, 1, 1, 1]	V	prae	NA
+1645	Anamuxra	Madang	S	4	[9]	V	post	NA
+322	Oksapmin	Macro-Ok	T	2	[2]	V	prae	NA
+2668	Munsee	Algic	S	8	[2, 2, 2, 2]	V	prae	NA
+2031	Mugil	Madang	P	3	[3]	V	prae	NA
+2544	Tepehuan (Southeastern)	Uto-Aztecan	Atr	3	[3, 1]	V	post	NA
+2028	Manambu	Sepik	P	1	[9]	V	post	NA
+2244	Ojibwa (Eastern)	Algic	S	7	[2, 2, 2, 1, 1]	V	post	NA
+1750	Kharia	Austroasiatic	S	2	[10]	V	post	NA
+2657	Udihe	Tungusic	S	2	[7, 6]	V	post	NA
+28	Awtuw	Sepik	Aditr	9	[1, 1]	V	post	NA
+674	Limbu	Sino-Tibetan	Atr	12	[2, 2, 1, 1, 1, 1, 1]	V	prae	NA
+1136	Chontal Maya	Mayan	T	5	[2]	V	post	NA
+2031	Mugil	Madang	T	3	[3]	V	prae	NA
+2031	Mugil	Madang	Aditr	3	[4, 1]	V	post	NA
+1388	Darmiya	Sino-Tibetan	Atr	1	[3]	V	post	NA
+2360	Camling	Sino-Tibetan	P	6	[4, 1, 1, 1, 1, 1]	V	post	NA
+28	Awtuw	Sepik	S	9	[1, 1]	V	prae	NA
+688	Cora	Uto-Aztecan	G	2	[6]	V	prae	NA
+2551	Atikamekw	Algic	Atr	7	[3, 2, 2, 2, 2, 1]	V	post	NA
+2244	Ojibwa (Eastern)	Algic	Atr	7	[4, 3, 2, 2, 2]	V	post	NA
+35	Belhare	Sino-Tibetan	S	12	[2, 2, 1]	V	post	NA
+387	Tuva	Turkic	Atr	3	[6]	V	post	NA
+21	Amharic	Semitic	Atr	5	[6, 5, 2]	V	post	NA
+2863	Puma	Sino-Tibetan	P	8	[4, 2, 1, 1, 1, 1]	V	post	NA
+3042	Tamashek (Burkin Faso)	Berber	Atr	2	[4, 3]	V	prae	NA
+25	Armenian (Eastern)	Indo-European	Aditr	1	[6]	V	post	NA
+9	Acehnese	Austronesian	P	3	[5]	V	post	final
+3018	Alaba-K’abeena	Cushitic	Atr	1	[6]	V	NA	NA
+1954	Menya	Angan	Aditr	2	[7]	V	post	NA
+2982	Bariai	Austronesian	S	1	[5]	V	prae	NA
+2172	Nganasan	Uralic	P	2	[2]	V	post	NA
+678	Bulgarian	Indo-European	S	2	[6]	V	post	NA
+3044	Gurage (Sebat Bet)	Semitic	T	5	[6]	V	post	NA
+1775	Kulung	Sino-Tibetan	P	5	[4, 4, 1, 1]	V	post	NA
+908	Athpare	Sino-Tibetan	Atr	10	[2, 2, 2, 1, 1, 1]	V	post	NA
+2063	Majang	Surmic	Atr	1	[6]	V	post	NA
+3131	Guaraní (Mbyá)	Tupian	P	2	[6, 1]	V	prae	initial
+299	Nandi	Nilotic	S	3	[5, 4]	V	prae	NA
+388	Tzutujil	Mayan	S	2	[5]	V	prae	NA
+645	Hatam	Hatam	Atr	1	[6]	V	prae	NA
+2999	Old Thulung (Mukli)	Sino-Tibetan	P	6	[3, 3, 1, 1, 1]	V	post	NA
+549	Latvian	Indo-European	S	1	[6]	V	post	NA
+1014	Biak	Austronesian	Atr	1	[3]	V	prae	NA
+3010	Lohorung	Sino-Tibetan	S	7	[3, 3, 2, 1]	V	post	NA
+322	Oksapmin	Macro-Ok	Atr	2	[2]	V	post	NA
+2360	Camling	Sino-Tibetan	Atr	6	[2, 2, 1, 1, 1]	V	post	NA
+2028	Manambu	Sepik	G	1	[9]	V	post	NA
+632	Hayu	Sino-Tibetan	P	5	[3, 2, 2, 1, 1]	V	post	NA
+113	Ineseño	Chumashan	Atr	3	[3, 2]	V	prae	NA
+2098	Mursi	Surmic	S	3	[5, 1]	V	post	NA
+1660	Itzaj	Mayan	P	7	[6, 6]	V	post	NA
+2447	Slovene	Indo-European	Atr	1	[7]	V	post	NA
+2628	Tobati	Austronesian	Atr	2	[4]	V	prae	NA
+637	Yamphu	Sino-Tibetan	P	9	[3, 2, 2, 1, 1, 1, 1]	V	post	NA
+2335	Provencal	Indo-European	Aditr	1	[5]	V	post	NA
+642	Arabic (Egyptian)	Semitic	Atr	3	[6, 5, 2]	V	prae	NA
+340	Russian	Indo-European	Aditr	2	[9]	V	post	NA
+518	Brahui	Dravidian	Aditr	2	[6, 5]	V	post	NA
+2641	Turkana	Nilotic	S	3	[4, 1]	V	prae	NA
+340	Russian	Indo-European	S	2	[9]	V	post	NA
+167	Maa	Nilotic	Atr	2	[6, 1]	V	prae	NA
+688	Cora	Uto-Aztecan	Aditr	2	[5]	V	prae	NA
+2447	Slovene	Indo-European	S	1	[7]	V	post	NA
+3040	Tamashek (Mali)	Berber	S	2	[4, 3]	V	prae	NA
+571	Tamazight (Ayt Ndhir)	Berber	Atr	2	[4, 3]	V	prae	NA
+3007	Bahing	Sino-Tibetan	S	6	[9, 1, 1]	V	post	NA
+533	Quechua (Imbabura)	Quechuan	Aditr	2	[5]	V	post	NA
+1036	Blackfoot	Algic	P	7	[2, 2, 2, 2, 1, 1]	V	post	NA
+885	Amuesha	Arawakan	G	3	[6]	V	post	NA
+637	Yamphu	Sino-Tibetan	S	9	[3, 2, 1, 1]	V	post	NA
+1155	Cakchiquel	Mayan	P	2	[5]	V	prae	NA
+103	Hua	Eastern Highlands	Aditr	3	[3, 3]	V	NA	NA
+456	Persian	Indo-European	S	2	[6, 5]	V	NA	NA
+1414	Tirmaga	Surmic	Atr	5	[7, 3, 1]	V	post	NA
+456	Persian	Indo-European	Atr	2	[6, 5]	V	NA	NA
+2869	Yagaria	Eastern Highlands	P	3	[8]	V	post	NA
+1416	Dagur	Mongolic	Atr	1	[6]	V	post	NA
+1105	Chortí	Mayan	Atr	3	[5, 1]	V	prae	NA
+2251	Olo	Torricelli	G	3	[4]	V	split	NA
+681	Khanty	Uralic	P	3	[3]	V	post	NA
+572	Nahuatl (Tetelcingo)	Uto-Aztecan	Atr	3	[3, 1]	V	post	NA
+201	Nanai	Tungusic	Atr	1	[5]	V	post	NA
+1413	Chai	Surmic	S	5	[4, 3, 1]	V	post	NA
+3007	Bahing	Sino-Tibetan	P	6	[5, 2, 2, 1, 1]	V	post	NA
+502	Turkish	Turkic	S	3	[5]	V	post	NA
+2999	Old Thulung (Mukli)	Sino-Tibetan	S	6	[2, 2, 1, 1, 1]	V	post	NA
+1660	Itzaj	Mayan	Atr	7	[4, 1]	V	split	NA
+688	Cora	Uto-Aztecan	P	2	[6]	V	prae	NA
+387	Tuva	Turkic	Aditr	3	[5]	V	post	NA
+1691	Juang	Austroasiatic	Atr	3	[5, 2, 1]	V	prae	NA
+2958	Keresan (Laguna)	Keresan	S	7	[2, 1]	V	in	NA
+2001	Micmac	Algic	S	5	[6, 3, 1, 1]	V	post	NA
+1413	Chai	Surmic	Atr	5	[4, 3, 1]	V	post	NA
+2641	Turkana	Nilotic	Atr	3	[4, 1]	V	prae	NA
+79	French (colloquial)	Indo-European	Atr	1	[2]	V	post	NA
+25	Armenian (Eastern)	Indo-European	S	1	[6]	V	post	NA
+22	Anêm	West New Britain	Atr	2	[6]	V	prae	NA
+27	Atakapa	Atakapa	S	2	[4]	V	post	NA
+3250	Xingú Asuriní	Tupian	S	1	[7]	V	prae	NA
+678	Bulgarian	Indo-European	Atr	2	[6]	V	post	NA
+2956	Kõic	Sino-Tibetan	S	3	[9, 3, 2]	V	post	NA
+678	Bulgarian	Indo-European	G	2	[2]	V	post	NA
+956	Nahuatl (Sierra de Zacapoaxtla)	Uto-Aztecan	Atr	3	[3, 1]	V	prae	NA
+299	Nandi	Nilotic	Atr	3	[5, 4]	V	prae	NA
+678	Bulgarian	Indo-European	Aditr	2	[5]	V	post	NA
+1791	Baale	Surmic	Atr	3	[6, 1]	V	post	NA
+1578	Golin	Chimbu-Wahgi	Atr	1	[6]	V	post	NA
+1439	Dumi	Sino-Tibetan	P	5	[6, 2, 1]	V	post	NA
+2869	Yagaria	Eastern Highlands	Atr	3	[7]	V	post	NA
+2862	Chintang	Sino-Tibetan	Atr	13	[3, 2, 1, 1, 1, 1]	V	post	NA
+1954	Menya	Angan	Atr	2	[7]	V	post	NA
+3250	Xingú Asuriní	Tupian	Atr	1	[8]	V	prae	NA
+674	Limbu	Sino-Tibetan	P	12	[4, 1, 1, 1, 1, 1, 1]	V	post	NA
+3039	Ghomara	Berber	Atr	2	[4, 3]	V	prae	NA
+1763	Khakas	Turkic	Atr	4	[5]	V	post	NA
+645	Hatam	Hatam	S	1	[6]	V	prae	NA
+2882	Berber (Kabyle)	Berber	T	3	[6]	V	post	NA
+908	Athpare	Sino-Tibetan	P	10	[3, 1, 1, 1, 1, 1, 1]	V	post	NA
+1645	Anamuxra	Madang	Atr	4	[9]	V	post	NA
+2997	Reyesano	Pano-Tacanan	Atr	3	[4, 1]	V	prae	NA
+3042	Tamashek (Burkin Faso)	Berber	S	2	[4, 3]	V	prae	NA
+559	Murle	Surmic	P	6	[4]	V	post	NA
+518	Brahui	Dravidian	Atr	2	[6, 5]	V	post	NA
+502	Turkish	Turkic	Atr	3	[5]	V	post	NA
+2956	Kõic	Sino-Tibetan	P	3	[5, 4, 1]	V	post	NA
+1136	Chontal Maya	Mayan	Atr	5	[3, 3, 1]	V	prae	NA
+3062	Iyo	Finisterre-Huon	P	5	[3, 1]	V	post	NA
+1890	Lithuanian	Indo-European	S	1	[4]	V	post	NA
+54	Choctaw	Muskogean	T	4	[4]	V	prae	NA
+3039	Ghomara	Berber	S	2	[4, 3]	V	prae	NA
+54	Choctaw	Muskogean	Aditr	4	[3, 1]	V	post	NA
+1578	Golin	Chimbu-Wahgi	Aditr	1	[4]	V	post	NA
+885	Amuesha	Arawakan	P	3	[6]	V	post	NA
+572	Nahuatl (Tetelcingo)	Uto-Aztecan	P	3	[6]	V	post	NA
+26	Asmat	Macro-Ok	S	2	[5]	V	post	NA
+322	Oksapmin	Macro-Ok	Aditr	2	[2]	V	post	NA
+1136	Chontal Maya	Mayan	S	5	[3, 3, 2]	V	post	NA
+2996	Yakkha	Sino-Tibetan	Atr	13	[1, 1, 1, 1, 1, 1, 1]	V	post	NA
+688	Cora	Uto-Aztecan	S	2	[5]	V	prae	NA
+1954	Menya	Angan	P	2	[7]	V	prae	NA
+2885	Shughni	Indo-European	Atr	1	[6]	V	NA	NA
+2001	Micmac	Algic	P	5	[5, 3, 3, 1]	V	post	NA
+2628	Tobati	Austronesian	P	2	[6]	V	post	NA
+21	Amharic	Semitic	S	5	[6, 5, 2]	V	prae	NA
+871	Araki	Austronesian	S	2	[7]	V	prae	NA
+322	Oksapmin	Macro-Ok	S	2	[2]	V	post	NA
+637	Yamphu	Sino-Tibetan	Atr	9	[3, 2, 2, 1, 1, 1]	V	post	NA
+3269	Tenetehara	Tupian	S	1	[6]	V	prae	NA
+1439	Dumi	Sino-Tibetan	Atr	5	[6, 2, 1]	V	post	NA
+2882	Berber (Kabyle)	Berber	S	3	[4, 3, 1]	V	prae	NA
+2476	Sirionó	Tupian	S	1	[9]	V	prae	NA
+2772	Koegu	Surmic	Atr	2	[2, 2]	V	post	NA
+26	Asmat	Macro-Ok	P	2	[2]	V	post	NA
+111	Ik	Kuliak	Atr	2	[6]	V	post	NA
+12	Ainu	Ainu	Atr	3	[4]	V	NA	NA
+572	Nahuatl (Tetelcingo)	Uto-Aztecan	S	3	[3, 1]	V	NA	NA
+1388	Darmiya	Sino-Tibetan	S	1	[3]	V	post	NA
+3044	Gurage (Sebat Bet)	Semitic	S	5	[6, 4, 3]	V	post	NA
+2882	Berber (Kabyle)	Berber	Atr	3	[4, 3, 1]	V	post	NA
+1142	Cheyenne	Algic	P	7	[3, 3, 3, 2, 2, 1, 1]	V	prae	NA
+460	Jacaltec	Mayan	S	2	[4]	V	prae	NA
+2657	Udihe	Tungusic	Aditr	2	[7, 6]	V	post	NA
+3007	Bahing	Sino-Tibetan	Atr	6	[9, 1, 1, 1]	V	post	NA
+387	Tuva	Turkic	S	3	[6]	V	post	NA
+1763	Khakas	Turkic	Aditr	4	[5]	V	post	NA
+2098	Mursi	Surmic	P	3	[4]	V	post	NA
+2997	Reyesano	Pano-Tacanan	S	3	[4, 1]	V	prae	NA
+2029	Moghol	Mongolic	Atr	2	[8, 7]	V	post	NA
+648	Bororo	Macro-Ge	Atr	1	[6]	V	prae	NA
+3062	Iyo	Finisterre-Huon	S	5	[5]	V	post	NA
+2063	Majang	Surmic	Aditr	1	[6]	V	post	NA
+22	Anêm	West New Britain	S	2	[6]	V	prae	NA
+2982	Bariai	Austronesian	Atr	1	[5]	V	prae	NA
+2873	Bantawa	Sino-Tibetan	Atr	10	[4, 2, 2, 1]	V	prae	NA
+750	Berber (Figuig)	Berber	Atr	2	[4, 3]	V	prae	NA
+2641	Turkana	Nilotic	P	3	[3, 1]	V	prae	NA
+502	Turkish	Turkic	Aditr	3	[5]	V	post	NA
+201	Nanai	Tungusic	S	1	[5]	V	post	NA
+3068	Emerillon	Tupian	P	2	[5, 1]	V	prae	NA
+1973	Menomini	Algic	P	11	[3, 2, 2, 2, 1, 1, 1]	V	post	NA
+2476	Sirionó	Tupian	Atr	1	[9]	V	prae	NA
+1954	Menya	Angan	S	2	[7]	V	post	NA
+3018	Alaba-K’abeena	Cushitic	Aditr	1	[6]	V	NA	NA
+2657	Udihe	Tungusic	Atr	2	[7, 6]	V	post	NA
+2951	Karajá	Macro-Ge	Atr	1	[2]	V	prae	NA
+2998	Jero	Sino-Tibetan	S	3	[4, 3, 1]	V	post	NA
+682	Yucatec	Mayan	P	5	[6, 6]	V	post	NA
+674	Limbu	Sino-Tibetan	S	12	[3, 2, 1, 1, 1, 1]	V	prae	NA
+22	Anêm	West New Britain	P	2	[7]	V	post	NA
+1704	Kamaiurá	Tupian	Atr	1	[9]	V	prae	NA
+3093	Dogon (Najamba)	Dogon	S	1	[5]	V	post	NA
+2360	Camling	Sino-Tibetan	S	6	[2, 2, 1, 1]	V	post	NA
+2882	Berber (Kabyle)	Berber	P	3	[6]	V	post	NA
+2335	Provencal	Indo-European	Atr	1	[5]	V	post	NA
+681	Khanty	Uralic	S	3	[8]	V	post	NA
+35	Belhare	Sino-Tibetan	P	12	[2, 2, 1, 1, 1, 1, 1]	V	post	NA
+2998	Jero	Sino-Tibetan	Atr	3	[5, 3, 1]	V	post	NA
+3068	Emerillon	Tupian	S	2	[6]	V	prae	NA
+2862	Chintang	Sino-Tibetan	S	13	[2, 2, 1, 1]	V	prae	NA
+750	Berber (Figuig)	Berber	S	2	[4, 3]	V	prae	NA
+3092	Dogon (Ben Tey)	Dogon	Aditr	1	[5]	V	post	NA
+885	Amuesha	Arawakan	Atr	3	[4, 1]	V	prae	NA
+2863	Puma	Sino-Tibetan	S	8	[3, 2, 2, 1]	V	post	NA
+54	Choctaw	Muskogean	S	4	[4, 3, 1]	V	prae	NA
+1578	Golin	Chimbu-Wahgi	S	1	[6]	V	post	NA
+923	Arapaho	Algic	Atr	5	[8, 3, 2, 1]	V	post	NA
+682	Yucatec	Mayan	S	5	[7, 4, 2]	V	post	NA
+1010	Binandere	Greater Binanderean	Aditr	2	[3]	V	post	NA
+3062	Iyo	Finisterre-Huon	Atr	5	[5]	V	post	NA
+2172	Nganasan	Uralic	Atr	2	[9]	V	post	NA
+1954	Menya	Angan	G	2	[7]	V	prae	NA
+3068	Emerillon	Tupian	Atr	2	[6]	V	prae	NA
+871	Araki	Austronesian	Atr	2	[7]	V	prae	NA
+2251	Olo	Torricelli	Atr	3	[7]	V	prae	NA
+1105	Chortí	Mayan	P	3	[5]	V	post	NA
+2668	Munsee	Algic	P	8	[3, 3, 3, 2, 2]	V	post	NA
+667	Thulung (Mukli)	Sino-Tibetan	Atr	6	[4, 2, 1, 1, 1]	V	post	NA
+2548	Teso	Nilotic	Atr	3	[5, 1]	V	post	NA
+2001	Micmac	Algic	Atr	5	[7, 3, 1, 1, 1]	V	post	NA
+2882	Berber (Kabyle)	Berber	Aditr	3	[4, 3]	V	prae	NA
+1691	Juang	Austroasiatic	P	3	[6]	V	post	NA
+3131	Guaraní (Mbyá)	Tupian	Atr	2	[6]	V	prae	initial
+27	Atakapa	Atakapa	Atr	2	[4]	V	post	NA
+1063	Baure	Arawakan	Atr	2	[6]	V	prae	NA
+332	Pipil	Uto-Aztecan	P	3	[6]	V	prae	initial
+1414	Tirmaga	Surmic	S	5	[7, 3, 1]	V	post	NA
+3010	Lohorung	Sino-Tibetan	P	7	[3, 3, 2, 1, 1, 1]	V	post	NA
+59	Cree (Plains)	Algic	S	8	[5, 2, 2, 1, 1]	V	post	NA
+3093	Dogon (Najamba)	Dogon	Atr	1	[5]	V	post	NA
+2873	Bantawa	Sino-Tibetan	P	10	[3, 2, 1, 1, 1]	V	post	NA
+2865	Wambule	Sino-Tibetan	Atr	3	[10, 2, 2]	V	post	NA
+923	Arapaho	Algic	P	5	[8, 4, 2, 1]	V	post	NA
+956	Nahuatl (Sierra de Zacapoaxtla)	Uto-Aztecan	P	3	[6]	V	prae	NA
+1660	Itzaj	Mayan	S	7	[7, 4, 1]	V	post	NA
+1142	Cheyenne	Algic	Atr	7	[3, 3, 2, 2, 1, 1, 1]	V	post	NA
+559	Murle	Surmic	S	6	[6, 3, 1]	V	post	NA
+57	Chuvash	Turkic	S	2	[6, 5]	V	post	NA
+2998	Jero	Sino-Tibetan	P	3	[2, 1, 1]	V	post	NA
+2980	Koyi	Sino-Tibetan	Atr	4	[5, 3, 1, 1]	V	post	NA
+1014	Biak	Austronesian	Aditr	1	[3]	V	prae	NA
+2544	Tepehuan (Southeastern)	Uto-Aztecan	P	3	[5]	V	prae	NA
+361	Swahili	Benue-Congo	Atr	3	[5]	V	prae	NA
+1691	Juang	Austroasiatic	S	3	[5, 2, 1]	V	prae	NA
+2865	Wambule	Sino-Tibetan	S	3	[4, 2, 2]	V	post	NA
+332	Pipil	Uto-Aztecan	S	3	[3, 1]	V	prae	NA
+113	Ineseño	Chumashan	S	3	[3, 2]	V	prae	NA
+1014	Biak	Austronesian	S	1	[3]	V	prae	NA
+1136	Chontal Maya	Mayan	P	5	[3, 2]	V	post	NA
+167	Maa	Nilotic	P	2	[2]	V	prae	NA
+956	Nahuatl (Sierra de Zacapoaxtla)	Uto-Aztecan	S	3	[3, 1]	V	prae	NA
+201	Nanai	Tungusic	Aditr	1	[5]	V	post	NA
+3044	Gurage (Sebat Bet)	Semitic	G	5	[6]	V	post	NA
+21	Amharic	Semitic	P	5	[6]	V	post	NA
+3044	Gurage (Sebat Bet)	Semitic	Atr	5	[6, 4, 3]	V	post	NA
+2544	Tepehuan (Southeastern)	Uto-Aztecan	S	3	[3, 1]	V	post	NA
+361	Swahili	Benue-Congo	P	3	[5]	V	prae	NA
+460	Jacaltec	Mayan	Atr	2	[4]	V	prae	NA
+1645	Anamuxra	Madang	Aditr	4	[9]	V	post	NA
+642	Arabic (Egyptian)	Semitic	S	3	[6, 5, 2]	V	post	NA
+103	Hua	Eastern Highlands	S	3	[3, 3]	V	post	NA
+2551	Atikamekw	Algic	S	7	[3, 2, 2, 2, 1]	V	post	NA
+2476	Sirionó	Tupian	P	1	[7]	V	prae	NA
+533	Quechua (Imbabura)	Quechuan	S	2	[5]	V	post	NA
+583	Hebrew (Modern)	Semitic	Aditr	1	[4]	V	post	NA
+3269	Tenetehara	Tupian	Atr	1	[6]	V	prae	NA
+167	Maa	Nilotic	S	2	[4]	V	prae	NA
+681	Khanty	Uralic	Atr	3	[8]	V	post	NA
+35	Belhare	Sino-Tibetan	Atr	12	[2, 2, 2, 1, 1, 1]	V	post	NA
+3044	Gurage (Sebat Bet)	Semitic	P	5	[6]	V	post	NA
+1414	Tirmaga	Surmic	P	5	[4]	V	post	NA
+361	Swahili	Benue-Congo	S	3	[5]	V	prae	NA
+583	Hebrew (Modern)	Semitic	S	1	[4]	V	post	NA
+2958	Keresan (Laguna)	Keresan	Atr	7	[2]	V	in	NA
+59	Cree (Plains)	Algic	P	8	[5, 4, 2, 2]	V	post	NA
+3117	Nepali (Eastern)	Indo-European	S	1	[6]	V	post	NA
+2885	Shughni	Indo-European	S	1	[6]	V	NA	NA
+337	Quiche	Mayan	Atr	2	[6]	V	prae	NA
+1750	Kharia	Austroasiatic	Aditr	2	[10]	V	post	NA
+2029	Moghol	Mongolic	S	2	[8, 7]	V	post	NA
+299	Nandi	Nilotic	P	3	[4]	V	post	NA
+2997	Reyesano	Pano-Tacanan	P	3	[4]	V	prae	NA
+3117	Nepali (Eastern)	Indo-European	Atr	1	[6]	V	post	NA
+2882	Berber (Kabyle)	Berber	G	3	[6]	V	post	NA
+1439	Dumi	Sino-Tibetan	S	5	[5, 2, 1]	V	prae	NA
+3096	Dogon (Nanga)	Dogon	S	2	[5]	V	post	NA
+2999	Old Thulung (Mukli)	Sino-Tibetan	Atr	6	[4, 1, 1, 1, 1]	V	post	NA
+3092	Dogon (Ben Tey)	Dogon	S	1	[5]	V	post	NA
+111	Ik	Kuliak	Aditr	2	[5]	V	post	NA
+1416	Dagur	Mongolic	S	1	[6]	V	post	NA
+186	Mixtec (Chalcatongo)	Otomanguean	Atr	1	[4]	V	post	NA
+1973	Menomini	Algic	S	11	[2, 2, 2, 2, 1]	V	post	NA
+3044	Gurage (Sebat Bet)	Semitic	Aditr	5	[6, 3, 3]	V	post	NA
+480	Amanab	Border	Atr	1	[2]	V	prae	NA
+111	Ik	Kuliak	S	2	[6]	V	post	NA
+59	Cree (Plains)	Algic	Atr	8	[5, 3, 2, 2, 1]	V	prae	NA
+518	Brahui	Dravidian	S	2	[6, 5]	V	post	NA
+28	Awtuw	Sepik	Atr	9	[1, 1]	V	prae	NA
+648	Bororo	Macro-Ge	P	1	[6]	V	prae	NA
+632	Hayu	Sino-Tibetan	S	5	[3, 2, 1, 1]	V	post	NA
+2251	Olo	Torricelli	Aditr	3	[7]	V	prae	NA
+1890	Lithuanian	Indo-European	Atr	1	[4]	V	post	NA
+3261	Tapirapé	Tupian	P	1	[5]	V	prae	NA
+2951	Karajá	Macro-Ge	S	1	[2]	V	prae	NA
+2956	Kõic	Sino-Tibetan	Atr	3	[9, 4, 2]	V	post	NA
+1348	Nubian (Kunuz)	Nubian	Atr	7	[4]	V	post	NA
+667	Thulung (Mukli)	Sino-Tibetan	S	6	[2, 2, 1, 1, 1]	V	post	NA
+9	Acehnese	Austronesian	Atr	3	[5]	V	prae	NA
+2548	Teso	Nilotic	P	3	[3, 1]	V	prae	NA
+2996	Yakkha	Sino-Tibetan	S	13	[1, 1, 1, 1, 1, 1]	V	post	NA
+2335	Provencal	Indo-European	S	1	[5]	V	post	NA
+2873	Bantawa	Sino-Tibetan	S	10	[2, 2, 1, 1]	V	prae	NA
+1645	Anamuxra	Madang	P	4	[9]	V	prae	NA
+54	Choctaw	Muskogean	P	4	[4, 4]	V	prae	NA
+393	Usan	Madang	P	1	[6]	V	prae	NA
+563	Passamaquoddy	Algic	P	12	[3, 3, 3, 2, 1, 1]	V	post	NA
+1775	Kulung	Sino-Tibetan	Atr	5	[2, 2, 1, 1]	V	post	NA
+2244	Ojibwa (Eastern)	Algic	P	7	[4, 3, 2, 2, 2]	V	post	NA
+54	Choctaw	Muskogean	G	4	[4]	V	prae	NA
+2031	Mugil	Madang	S	3	[4, 1]	V	post	NA
+3261	Tapirapé	Tupian	Atr	1	[7]	V	prae	NA
+648	Bororo	Macro-Ge	T	1	[6]	V	prae	NA

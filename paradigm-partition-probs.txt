@@ -1,0 +1,419 @@
+LID	Language	Stock	HOST.CAT	Category	Position.binned5	SLOTS	SLOTS.USED	PARTITION	ENTROPY	PROB	CLUST.INDEX
+480	Amanab	Border	V	S	prae	1	1	[2]	0.0	1.0	0.0
+480	Amanab	Border	V	Aditr	prae	1	1	[2]	0.0	1.0	0.0
+79	French (colloquial)	Indo-European	V	Aditr	post	1	1	[2]	0.0	1.0	0.0
+79	French (colloquial)	Indo-European	V	S	post	1	1	[2]	0.0	1.0	0.0
+3250	Xingú Asuriní	Tupian	V	P	prae	1	1	[2]	0.0	1.0	0.0
+79	French (colloquial)	Indo-European	V	Atr	post	1	1	[2]	0.0	1.0	0.0
+2951	Karajá	Macro-Ge	V	Atr	prae	1	1	[2]	0.0	1.0	0.0
+480	Amanab	Border	V	Atr	prae	1	1	[2]	0.0	1.0	0.0
+2951	Karajá	Macro-Ge	V	S	prae	1	1	[2]	0.0	1.0	0.0
+429	Zuni	Zuni	V	S	prae	2	2	[1, 1]	1.0	0.5	0.0
+1063	Baure	Arawakan	V	P	post	2	1	[2]	0.0	0.5	0.5
+322	Oksapmin	Macro-Ok	V	G	prae	2	1	[2]	0.0	0.5	0.5
+322	Oksapmin	Macro-Ok	V	P	prae	2	1	[2]	0.0	0.5	0.5
+322	Oksapmin	Macro-Ok	V	T	prae	2	1	[2]	0.0	0.5	0.5
+2172	Nganasan	Uralic	V	P	post	2	1	[2]	0.0	0.5	0.5
+322	Oksapmin	Macro-Ok	V	Atr	post	2	1	[2]	0.0	0.5	0.5
+678	Bulgarian	Indo-European	V	G	post	2	1	[2]	0.0	0.5	0.5
+322	Oksapmin	Macro-Ok	V	Aditr	post	2	1	[2]	0.0	0.5	0.5
+322	Oksapmin	Macro-Ok	V	S	post	2	1	[2]	0.0	0.5	0.5
+26	Asmat	Macro-Ok	V	P	post	2	1	[2]	0.0	0.5	0.5
+167	Maa	Nilotic	V	P	prae	2	1	[2]	0.0	0.5	0.5
+2958	Keresan (Laguna)	Keresan	V	Atr	in	7	1	[2]	0.0	0.142857142857	0.857142857143
+1136	Chontal Maya	Mayan	V	G	post	5	1	[2]	0.0	0.2	0.8
+1136	Chontal Maya	Mayan	V	T	post	5	1	[2]	0.0	0.2	0.8
+28	Awtuw	Sepik	V	Aditr	post	9	2	[1, 1]	1.0	0.888888888889	0.0
+28	Awtuw	Sepik	V	S	prae	9	2	[1, 1]	1.0	0.888888888889	0.0
+28	Awtuw	Sepik	V	Atr	prae	9	2	[1, 1]	1.0	0.888888888889	0.0
+1388	Darmiya	Sino-Tibetan	V	Atr	post	1	1	[3]	0.0	1.0	0.0
+1014	Biak	Austronesian	V	Atr	prae	1	1	[3]	0.0	1.0	0.0
+1388	Darmiya	Sino-Tibetan	V	S	post	1	1	[3]	0.0	1.0	0.0
+1014	Biak	Austronesian	V	Aditr	prae	1	1	[3]	0.0	1.0	0.0
+1014	Biak	Austronesian	V	S	prae	1	1	[3]	0.0	1.0	0.0
+1010	Binandere	Greater Binanderean	V	Atr	post	2	1	[3]	0.0	0.25	0.75
+1010	Binandere	Greater Binanderean	V	S	post	2	1	[3]	0.0	0.25	0.75
+1010	Binandere	Greater Binanderean	V	Aditr	post	2	1	[3]	0.0	0.25	0.75
+2031	Mugil	Madang	V	P	prae	3	1	[3]	0.0	0.111111111111	0.888888888889
+2031	Mugil	Madang	V	T	prae	3	1	[3]	0.0	0.111111111111	0.888888888889
+681	Khanty	Uralic	V	P	post	3	1	[3]	0.0	0.111111111111	0.888888888889
+1413	Chai	Surmic	V	P	post	5	1	[3]	0.0	0.04	0.96
+2958	Keresan (Laguna)	Keresan	V	S	in	7	2	[2, 1]	0.918295834054	0.367346938776	0.612244897959
+186	Mixtec (Chalcatongo)	Otomanguean	V	S	post	1	1	[4]	0.0	1.0	0.0
+583	Hebrew (Modern)	Semitic	V	Atr	post	1	1	[4]	0.0	1.0	0.0
+1890	Lithuanian	Indo-European	V	S	post	1	1	[4]	0.0	1.0	0.0
+1578	Golin	Chimbu-Wahgi	V	Aditr	post	1	1	[4]	0.0	1.0	0.0
+583	Hebrew (Modern)	Semitic	V	Aditr	post	1	1	[4]	0.0	1.0	0.0
+583	Hebrew (Modern)	Semitic	V	S	post	1	1	[4]	0.0	1.0	0.0
+186	Mixtec (Chalcatongo)	Otomanguean	V	Atr	post	1	1	[4]	0.0	1.0	0.0
+1890	Lithuanian	Indo-European	V	Atr	post	1	1	[4]	0.0	1.0	0.0
+460	Jacaltec	Mayan	V	P	prae	2	1	[4]	0.0	0.125	0.875
+2628	Tobati	Austronesian	V	S	prae	2	1	[4]	0.0	0.125	0.875
+2628	Tobati	Austronesian	V	Atr	prae	2	1	[4]	0.0	0.125	0.875
+27	Atakapa	Atakapa	V	S	post	2	1	[4]	0.0	0.125	0.875
+460	Jacaltec	Mayan	V	S	prae	2	1	[4]	0.0	0.125	0.875
+27	Atakapa	Atakapa	V	Atr	post	2	1	[4]	0.0	0.125	0.875
+460	Jacaltec	Mayan	V	Atr	prae	2	1	[4]	0.0	0.125	0.875
+167	Maa	Nilotic	V	S	prae	2	1	[4]	0.0	0.125	0.875
+2772	Koegu	Surmic	V	S	post	2	2	[2, 2]	1.0	0.375	0.0
+2772	Koegu	Surmic	V	Atr	post	2	2	[2, 2]	1.0	0.375	0.0
+2251	Olo	Torricelli	V	G	split	3	1	[4]	0.0	0.037037037037	0.962962962963
+12	Ainu	Ainu	V	Atr	NA	3	1	[4]	0.0	0.037037037037	0.962962962963
+2098	Mursi	Surmic	V	P	post	3	1	[4]	0.0	0.037037037037	0.962962962963
+299	Nandi	Nilotic	V	P	post	3	1	[4]	0.0	0.037037037037	0.962962962963
+2997	Reyesano	Pano-Tacanan	V	P	prae	3	1	[4]	0.0	0.037037037037	0.962962962963
+12	Ainu	Ainu	V	S	prae	3	2	[3, 1]	0.811278124459	0.296296296296	0.666666666667
+332	Pipil	Uto-Aztecan	V	Atr	prae	3	2	[3, 1]	0.811278124459	0.296296296296	0.666666666667
+2544	Tepehuan (Southeastern)	Uto-Aztecan	V	Atr	post	3	2	[3, 1]	0.811278124459	0.296296296296	0.666666666667
+572	Nahuatl (Tetelcingo)	Uto-Aztecan	V	Atr	post	3	2	[3, 1]	0.811278124459	0.296296296296	0.666666666667
+956	Nahuatl (Sierra de Zacapoaxtla)	Uto-Aztecan	V	Atr	prae	3	2	[3, 1]	0.811278124459	0.296296296296	0.666666666667
+572	Nahuatl (Tetelcingo)	Uto-Aztecan	V	S	NA	3	2	[3, 1]	0.811278124459	0.296296296296	0.666666666667
+2641	Turkana	Nilotic	V	P	prae	3	2	[3, 1]	0.811278124459	0.296296296296	0.666666666667
+332	Pipil	Uto-Aztecan	V	S	prae	3	2	[3, 1]	0.811278124459	0.296296296296	0.666666666667
+956	Nahuatl (Sierra de Zacapoaxtla)	Uto-Aztecan	V	S	prae	3	2	[3, 1]	0.811278124459	0.296296296296	0.666666666667
+2544	Tepehuan (Southeastern)	Uto-Aztecan	V	S	post	3	2	[3, 1]	0.811278124459	0.296296296296	0.666666666667
+2548	Teso	Nilotic	V	P	prae	3	2	[3, 1]	0.811278124459	0.296296296296	0.666666666667
+113	Ineseño	Chumashan	V	Aditr	prae	3	2	[2, 2]	1.0	0.222222222222	0.444444444444
+12	Ainu	Ainu	V	P	prae	3	2	[2, 2]	1.0	0.222222222222	0.444444444444
+2998	Jero	Sino-Tibetan	V	P	post	3	3	[2, 1, 1]	1.5	0.444444444444	0.0
+54	Choctaw	Muskogean	V	T	prae	4	1	[4]	0.0	0.015625	0.984375
+54	Choctaw	Muskogean	V	G	prae	4	1	[4]	0.0	0.015625	0.984375
+54	Choctaw	Muskogean	V	Aditr	post	4	2	[3, 1]	0.811278124459	0.1875	0.796875
+1414	Tirmaga	Surmic	V	P	post	5	1	[4]	0.0	0.008	0.992
+3062	Iyo	Finisterre-Huon	V	P	post	5	2	[3, 1]	0.811278124459	0.128	0.864
+559	Murle	Surmic	V	P	post	6	1	[4]	0.0	0.00462962962963	0.99537037037
+1348	Nubian (Kunuz)	Nubian	V	Aditr	post	7	1	[4]	0.0	0.00291545189504	0.997084548105
+1348	Nubian (Kunuz)	Nubian	V	S	post	7	1	[4]	0.0	0.00291545189504	0.997084548105
+1348	Nubian (Kunuz)	Nubian	V	Atr	post	7	1	[4]	0.0	0.00291545189504	0.997084548105
+3093	Dogon (Najamba)	Dogon	V	Aditr	post	1	1	[5]	0.0	1.0	0.0
+393	Usan	Madang	V	G	prae	1	1	[5]	0.0	1.0	0.0
+3092	Dogon (Ben Tey)	Dogon	V	Atr	post	1	1	[5]	0.0	1.0	0.0
+3261	Tapirapé	Tupian	V	S	prae	1	1	[5]	0.0	1.0	0.0
+2982	Bariai	Austronesian	V	S	prae	1	1	[5]	0.0	1.0	0.0
+2335	Provencal	Indo-European	V	Aditr	post	1	1	[5]	0.0	1.0	0.0
+201	Nanai	Tungusic	V	Atr	post	1	1	[5]	0.0	1.0	0.0
+2982	Bariai	Austronesian	V	Atr	prae	1	1	[5]	0.0	1.0	0.0
+201	Nanai	Tungusic	V	S	post	1	1	[5]	0.0	1.0	0.0
+3093	Dogon (Najamba)	Dogon	V	S	post	1	1	[5]	0.0	1.0	0.0
+2335	Provencal	Indo-European	V	Atr	post	1	1	[5]	0.0	1.0	0.0
+3092	Dogon (Ben Tey)	Dogon	V	Aditr	post	1	1	[5]	0.0	1.0	0.0
+3093	Dogon (Najamba)	Dogon	V	Atr	post	1	1	[5]	0.0	1.0	0.0
+201	Nanai	Tungusic	V	Aditr	post	1	1	[5]	0.0	1.0	0.0
+3092	Dogon (Ben Tey)	Dogon	V	S	post	1	1	[5]	0.0	1.0	0.0
+3261	Tapirapé	Tupian	V	P	prae	1	1	[5]	0.0	1.0	0.0
+2335	Provencal	Indo-European	V	S	post	1	1	[5]	0.0	1.0	0.0
+3096	Dogon (Nanga)	Dogon	V	Atr	post	2	1	[5]	0.0	0.0625	0.9375
+533	Quechua (Imbabura)	Quechuan	V	Atr	post	2	1	[5]	0.0	0.0625	0.9375
+26	Asmat	Macro-Ok	V	Atr	post	2	1	[5]	0.0	0.0625	0.9375
+688	Cora	Uto-Aztecan	V	Atr	prae	2	1	[5]	0.0	0.0625	0.9375
+388	Tzutujil	Mayan	V	P	prae	2	1	[5]	0.0	0.0625	0.9375
+1155	Cakchiquel	Mayan	V	S	prae	2	1	[5]	0.0	0.0625	0.9375
+3096	Dogon (Nanga)	Dogon	V	Aditr	post	2	1	[5]	0.0	0.0625	0.9375
+337	Quiche	Mayan	V	S	prae	2	1	[5]	0.0	0.0625	0.9375
+337	Quiche	Mayan	V	P	prae	2	1	[5]	0.0	0.0625	0.9375
+388	Tzutujil	Mayan	V	S	prae	2	1	[5]	0.0	0.0625	0.9375
+688	Cora	Uto-Aztecan	V	Aditr	prae	2	1	[5]	0.0	0.0625	0.9375
+533	Quechua (Imbabura)	Quechuan	V	Aditr	post	2	1	[5]	0.0	0.0625	0.9375
+1155	Cakchiquel	Mayan	V	P	prae	2	1	[5]	0.0	0.0625	0.9375
+678	Bulgarian	Indo-European	V	Aditr	post	2	1	[5]	0.0	0.0625	0.9375
+26	Asmat	Macro-Ok	V	S	post	2	1	[5]	0.0	0.0625	0.9375
+688	Cora	Uto-Aztecan	V	S	prae	2	1	[5]	0.0	0.0625	0.9375
+533	Quechua (Imbabura)	Quechuan	V	S	post	2	1	[5]	0.0	0.0625	0.9375
+3096	Dogon (Nanga)	Dogon	V	S	post	2	1	[5]	0.0	0.0625	0.9375
+111	Ik	Kuliak	V	Aditr	post	2	1	[5]	0.0	0.0625	0.9375
+9	Acehnese	Austronesian	V	P	post	3	1	[5]	0.0	0.0123456790123	0.987654320988
+502	Turkish	Turkic	V	S	post	3	1	[5]	0.0	0.0123456790123	0.987654320988
+387	Tuva	Turkic	V	Aditr	post	3	1	[5]	0.0	0.0123456790123	0.987654320988
+502	Turkish	Turkic	V	Atr	post	3	1	[5]	0.0	0.0123456790123	0.987654320988
+502	Turkish	Turkic	V	Aditr	post	3	1	[5]	0.0	0.0123456790123	0.987654320988
+1105	Chortí	Mayan	V	P	post	3	1	[5]	0.0	0.0123456790123	0.987654320988
+2544	Tepehuan (Southeastern)	Uto-Aztecan	V	P	prae	3	1	[5]	0.0	0.0123456790123	0.987654320988
+361	Swahili	Benue-Congo	V	Atr	prae	3	1	[5]	0.0	0.0123456790123	0.987654320988
+361	Swahili	Benue-Congo	V	P	prae	3	1	[5]	0.0	0.0123456790123	0.987654320988
+361	Swahili	Benue-Congo	V	S	prae	3	1	[5]	0.0	0.0123456790123	0.987654320988
+9	Acehnese	Austronesian	V	Atr	prae	3	1	[5]	0.0	0.0123456790123	0.987654320988
+113	Ineseño	Chumashan	V	Atr	prae	3	2	[3, 2]	0.970950594455	0.246913580247	0.617283950617
+113	Ineseño	Chumashan	V	S	prae	3	2	[3, 2]	0.970950594455	0.246913580247	0.617283950617
+2031	Mugil	Madang	V	Atr	post	3	2	[4, 1]	0.721928094887	0.123456790123	0.864197530864
+885	Amuesha	Arawakan	V	Aditr	prae	3	2	[4, 1]	0.721928094887	0.123456790123	0.864197530864
+885	Amuesha	Arawakan	V	S	prae	3	2	[4, 1]	0.721928094887	0.123456790123	0.864197530864
+2251	Olo	Torricelli	V	P	split	3	2	[4, 1]	0.721928094887	0.123456790123	0.864197530864
+2031	Mugil	Madang	V	Aditr	post	3	2	[4, 1]	0.721928094887	0.123456790123	0.864197530864
+2641	Turkana	Nilotic	V	S	prae	3	2	[4, 1]	0.721928094887	0.123456790123	0.864197530864
+2641	Turkana	Nilotic	V	Atr	prae	3	2	[4, 1]	0.721928094887	0.123456790123	0.864197530864
+2997	Reyesano	Pano-Tacanan	V	Atr	prae	3	2	[4, 1]	0.721928094887	0.123456790123	0.864197530864
+2997	Reyesano	Pano-Tacanan	V	S	prae	3	2	[4, 1]	0.721928094887	0.123456790123	0.864197530864
+885	Amuesha	Arawakan	V	Atr	prae	3	2	[4, 1]	0.721928094887	0.123456790123	0.864197530864
+2031	Mugil	Madang	V	S	post	3	2	[4, 1]	0.721928094887	0.123456790123	0.864197530864
+1763	Khakas	Turkic	V	S	post	4	1	[5]	0.0	0.00390625	0.99609375
+1763	Khakas	Turkic	V	Atr	post	4	1	[5]	0.0	0.00390625	0.99609375
+1763	Khakas	Turkic	V	Aditr	post	4	1	[5]	0.0	0.00390625	0.99609375
+3062	Iyo	Finisterre-Huon	V	Aditr	post	5	1	[5]	0.0	0.0016	0.9984
+3062	Iyo	Finisterre-Huon	V	S	post	5	1	[5]	0.0	0.0016	0.9984
+3062	Iyo	Finisterre-Huon	V	Atr	post	5	1	[5]	0.0	0.0016	0.9984
+1136	Chontal Maya	Mayan	V	P	post	5	2	[3, 2]	0.970950594455	0.064	0.9024
+1660	Itzaj	Mayan	V	Atr	split	7	2	[4, 1]	0.721928094887	0.0124947938359	0.987088713036
+35	Belhare	Sino-Tibetan	V	S	post	12	3	[2, 2, 1]	1.52192809489	0.0795717592593	0.859375
+549	Latvian	Indo-European	V	Atr	post	1	1	[6]	0.0	1.0	0.0
+648	Bororo	Macro-Ge	V	S	prae	1	1	[6]	0.0	1.0	0.0
+25	Armenian (Eastern)	Indo-European	V	Atr	post	1	1	[6]	0.0	1.0	0.0
+3018	Alaba-K’abeena	Cushitic	V	S	NA	1	1	[6]	0.0	1.0	0.0
+2063	Majang	Surmic	V	S	post	1	1	[6]	0.0	1.0	0.0
+25	Armenian (Eastern)	Indo-European	V	Aditr	post	1	1	[6]	0.0	1.0	0.0
+3018	Alaba-K’abeena	Cushitic	V	Atr	NA	1	1	[6]	0.0	1.0	0.0
+2063	Majang	Surmic	V	Atr	post	1	1	[6]	0.0	1.0	0.0
+645	Hatam	Hatam	V	Atr	prae	1	1	[6]	0.0	1.0	0.0
+549	Latvian	Indo-European	V	S	post	1	1	[6]	0.0	1.0	0.0
+1416	Dagur	Mongolic	V	Atr	post	1	1	[6]	0.0	1.0	0.0
+25	Armenian (Eastern)	Indo-European	V	S	post	1	1	[6]	0.0	1.0	0.0
+1578	Golin	Chimbu-Wahgi	V	Atr	post	1	1	[6]	0.0	1.0	0.0
+645	Hatam	Hatam	V	S	prae	1	1	[6]	0.0	1.0	0.0
+2885	Shughni	Indo-European	V	Atr	NA	1	1	[6]	0.0	1.0	0.0
+3269	Tenetehara	Tupian	V	S	prae	1	1	[6]	0.0	1.0	0.0
+648	Bororo	Macro-Ge	V	Atr	prae	1	1	[6]	0.0	1.0	0.0
+2063	Majang	Surmic	V	Aditr	post	1	1	[6]	0.0	1.0	0.0
+3018	Alaba-K’abeena	Cushitic	V	Aditr	NA	1	1	[6]	0.0	1.0	0.0
+1578	Golin	Chimbu-Wahgi	V	S	post	1	1	[6]	0.0	1.0	0.0
+3269	Tenetehara	Tupian	V	Atr	prae	1	1	[6]	0.0	1.0	0.0
+3117	Nepali (Eastern)	Indo-European	V	S	post	1	1	[6]	0.0	1.0	0.0
+2885	Shughni	Indo-European	V	S	NA	1	1	[6]	0.0	1.0	0.0
+3117	Nepali (Eastern)	Indo-European	V	Atr	post	1	1	[6]	0.0	1.0	0.0
+1416	Dagur	Mongolic	V	S	post	1	1	[6]	0.0	1.0	0.0
+648	Bororo	Macro-Ge	V	P	prae	1	1	[6]	0.0	1.0	0.0
+393	Usan	Madang	V	P	prae	1	1	[6]	0.0	1.0	0.0
+648	Bororo	Macro-Ge	V	T	prae	1	1	[6]	0.0	1.0	0.0
+3068	Emerillon	Tupian	V	P	prae	2	2	[5, 1]	0.650022421648	0.1875	0.78125
+27	Atakapa	Atakapa	V	P	prae	2	1	[6]	0.0	0.03125	0.96875
+388	Tzutujil	Mayan	V	Atr	prae	2	1	[6]	0.0	0.03125	0.96875
+1063	Baure	Arawakan	V	S	prae	2	1	[6]	0.0	0.03125	0.96875
+688	Cora	Uto-Aztecan	V	G	prae	2	1	[6]	0.0	0.03125	0.96875
+678	Bulgarian	Indo-European	V	S	post	2	1	[6]	0.0	0.03125	0.96875
+688	Cora	Uto-Aztecan	V	P	prae	2	1	[6]	0.0	0.03125	0.96875
+22	Anêm	West New Britain	V	Atr	prae	2	1	[6]	0.0	0.03125	0.96875
+678	Bulgarian	Indo-European	V	Atr	post	2	1	[6]	0.0	0.03125	0.96875
+2628	Tobati	Austronesian	V	P	post	2	1	[6]	0.0	0.03125	0.96875
+111	Ik	Kuliak	V	Atr	post	2	1	[6]	0.0	0.03125	0.96875
+22	Anêm	West New Britain	V	S	prae	2	1	[6]	0.0	0.03125	0.96875
+3068	Emerillon	Tupian	V	S	prae	2	1	[6]	0.0	0.03125	0.96875
+3068	Emerillon	Tupian	V	Atr	prae	2	1	[6]	0.0	0.03125	0.96875
+3131	Guaraní (Mbyá)	Tupian	V	Atr	prae	2	1	[6]	0.0	0.03125	0.96875
+1063	Baure	Arawakan	V	Atr	prae	2	1	[6]	0.0	0.03125	0.96875
+337	Quiche	Mayan	V	Atr	prae	2	1	[6]	0.0	0.03125	0.96875
+111	Ik	Kuliak	V	S	post	2	1	[6]	0.0	0.03125	0.96875
+2548	Teso	Nilotic	V	S	post	3	2	[5, 1]	0.650022421648	0.0493827160494	0.946502057613
+2098	Mursi	Surmic	V	Atr	post	3	2	[5, 1]	0.650022421648	0.0493827160494	0.946502057613
+2098	Mursi	Surmic	V	S	post	3	2	[5, 1]	0.650022421648	0.0493827160494	0.946502057613
+1105	Chortí	Mayan	V	Atr	prae	3	2	[5, 1]	0.650022421648	0.0493827160494	0.946502057613
+2548	Teso	Nilotic	V	Atr	post	3	2	[5, 1]	0.650022421648	0.0493827160494	0.946502057613
+103	Hua	Eastern Highlands	V	Atr	NA	3	2	[3, 3]	1.0	0.082304526749	0.740740740741
+103	Hua	Eastern Highlands	V	Aditr	NA	3	2	[3, 3]	1.0	0.082304526749	0.740740740741
+103	Hua	Eastern Highlands	V	S	post	3	2	[3, 3]	1.0	0.082304526749	0.740740740741
+103	Hua	Eastern Highlands	V	P	prae	3	1	[6]	0.0	0.00411522633745	0.995884773663
+103	Hua	Eastern Highlands	V	G	prae	3	1	[6]	0.0	0.00411522633745	0.995884773663
+387	Tuva	Turkic	V	Atr	post	3	1	[6]	0.0	0.00411522633745	0.995884773663
+885	Amuesha	Arawakan	V	G	post	3	1	[6]	0.0	0.00411522633745	0.995884773663
+2882	Berber (Kabyle)	Berber	V	T	post	3	1	[6]	0.0	0.00411522633745	0.995884773663
+885	Amuesha	Arawakan	V	P	post	3	1	[6]	0.0	0.00411522633745	0.995884773663
+572	Nahuatl (Tetelcingo)	Uto-Aztecan	V	P	post	3	1	[6]	0.0	0.00411522633745	0.995884773663
+387	Tuva	Turkic	V	S	post	3	1	[6]	0.0	0.00411522633745	0.995884773663
+2882	Berber (Kabyle)	Berber	V	P	post	3	1	[6]	0.0	0.00411522633745	0.995884773663
+1691	Juang	Austroasiatic	V	P	post	3	1	[6]	0.0	0.00411522633745	0.995884773663
+332	Pipil	Uto-Aztecan	V	P	prae	3	1	[6]	0.0	0.00411522633745	0.995884773663
+956	Nahuatl (Sierra de Zacapoaxtla)	Uto-Aztecan	V	P	prae	3	1	[6]	0.0	0.00411522633745	0.995884773663
+2882	Berber (Kabyle)	Berber	V	G	post	3	1	[6]	0.0	0.00411522633745	0.995884773663
+682	Yucatec	Mayan	V	Atr	prae	5	2	[4, 2]	0.918295834054	0.0192	0.9728
+3044	Gurage (Sebat Bet)	Semitic	V	T	post	5	1	[6]	0.0	0.00032	0.99968
+3044	Gurage (Sebat Bet)	Semitic	V	G	post	5	1	[6]	0.0	0.00032	0.99968
+21	Amharic	Semitic	V	P	post	5	1	[6]	0.0	0.00032	0.99968
+3044	Gurage (Sebat Bet)	Semitic	V	P	post	5	1	[6]	0.0	0.00032	0.99968
+1775	Kulung	Sino-Tibetan	V	Atr	post	5	4	[2, 2, 1, 1]	1.91829583405	0.3456	0.1152
+2360	Camling	Sino-Tibetan	V	S	post	6	4	[2, 2, 1, 1]	1.91829583405	0.347222222222	0.246913580247
+908	Athpare	Sino-Tibetan	V	S	prae	10	4	[2, 2, 1, 1]	1.91829583405	0.2268	0.6048
+2873	Bantawa	Sino-Tibetan	V	S	prae	10	4	[2, 2, 1, 1]	1.91829583405	0.2268	0.6048
+2996	Yakkha	Sino-Tibetan	V	S	post	13	6	[1, 1, 1, 1, 1, 1]	2.58496250072	0.255970352255	0.0
+2862	Chintang	Sino-Tibetan	V	S	prae	13	4	[2, 2, 1, 1]	1.91829583405	0.15998147016	0.735914762735
+1704	Kamaiurá	Tupian	V	S	prae	1	1	[7]	0.0	1.0	0.0
+2447	Slovene	Indo-European	V	Atr	post	1	1	[7]	0.0	1.0	0.0
+2447	Slovene	Indo-European	V	S	post	1	1	[7]	0.0	1.0	0.0
+3250	Xingú Asuriní	Tupian	V	S	prae	1	1	[7]	0.0	1.0	0.0
+2476	Sirionó	Tupian	V	P	prae	1	1	[7]	0.0	1.0	0.0
+3261	Tapirapé	Tupian	V	Atr	prae	1	1	[7]	0.0	1.0	0.0
+3131	Guaraní (Mbyá)	Tupian	V	P	prae	2	2	[6, 1]	0.591672778582	0.109375	0.875
+167	Maa	Nilotic	V	Atr	prae	2	2	[6, 1]	0.591672778582	0.109375	0.875
+571	Tamazight (Ayt Ndhir)	Berber	V	S	prae	2	2	[4, 3]	0.985228136034	0.546875	0.0
+3040	Tamashek (Mali)	Berber	V	Atr	prae	2	2	[4, 3]	0.985228136034	0.546875	0.0
+3042	Tamashek (Burkin Faso)	Berber	V	Atr	prae	2	2	[4, 3]	0.985228136034	0.546875	0.0
+3040	Tamashek (Mali)	Berber	V	S	prae	2	2	[4, 3]	0.985228136034	0.546875	0.0
+571	Tamazight (Ayt Ndhir)	Berber	V	Atr	prae	2	2	[4, 3]	0.985228136034	0.546875	0.0
+3039	Ghomara	Berber	V	Atr	prae	2	2	[4, 3]	0.985228136034	0.546875	0.0
+3042	Tamashek (Burkin Faso)	Berber	V	S	prae	2	2	[4, 3]	0.985228136034	0.546875	0.0
+3039	Ghomara	Berber	V	S	prae	2	2	[4, 3]	0.985228136034	0.546875	0.0
+750	Berber (Figuig)	Berber	V	Atr	prae	2	2	[4, 3]	0.985228136034	0.546875	0.0
+750	Berber (Figuig)	Berber	V	S	prae	2	2	[4, 3]	0.985228136034	0.546875	0.0
+1954	Menya	Angan	V	Aditr	post	2	1	[7]	0.0	0.015625	0.984375
+1954	Menya	Angan	V	Atr	post	2	1	[7]	0.0	0.015625	0.984375
+1954	Menya	Angan	V	P	prae	2	1	[7]	0.0	0.015625	0.984375
+871	Araki	Austronesian	V	S	prae	2	1	[7]	0.0	0.015625	0.984375
+1954	Menya	Angan	V	S	post	2	1	[7]	0.0	0.015625	0.984375
+22	Anêm	West New Britain	V	P	post	2	1	[7]	0.0	0.015625	0.984375
+1954	Menya	Angan	V	G	prae	2	1	[7]	0.0	0.015625	0.984375
+871	Araki	Austronesian	V	Atr	prae	2	1	[7]	0.0	0.015625	0.984375
+2882	Berber (Kabyle)	Berber	V	Aditr	prae	3	2	[4, 3]	0.985228136034	0.0960219478738	0.825788751715
+1791	Baale	Surmic	V	S	post	3	2	[6, 1]	0.591672778582	0.0192043895748	0.979423868313
+1791	Baale	Surmic	V	Atr	post	3	2	[6, 1]	0.591672778582	0.0192043895748	0.979423868313
+2251	Olo	Torricelli	V	S	prae	3	1	[7]	0.0	0.00137174211248	0.998628257888
+2869	Yagaria	Eastern Highlands	V	S	post	3	1	[7]	0.0	0.00137174211248	0.998628257888
+2869	Yagaria	Eastern Highlands	V	Atr	post	3	1	[7]	0.0	0.00137174211248	0.998628257888
+2251	Olo	Torricelli	V	Atr	prae	3	1	[7]	0.0	0.00137174211248	0.998628257888
+2251	Olo	Torricelli	V	Aditr	prae	3	1	[7]	0.0	0.00137174211248	0.998628257888
+1136	Chontal Maya	Mayan	V	Atr	prae	5	3	[3, 3, 1]	1.44881563573	0.05376	0.83328
+1775	Kulung	Sino-Tibetan	V	S	post	5	3	[4, 2, 1]	1.37878349349	0.08064	0.88704
+632	Hayu	Sino-Tibetan	V	Atr	post	5	4	[3, 2, 1, 1]	1.84237099318	0.32256	0.37632
+632	Hayu	Sino-Tibetan	V	S	post	5	4	[3, 2, 1, 1]	1.84237099318	0.32256	0.37632
+2360	Camling	Sino-Tibetan	V	Atr	post	6	5	[2, 2, 1, 1, 1]	2.23592635063	0.270061728395	0.054012345679
+2999	Old Thulung (Mukli)	Sino-Tibetan	V	S	post	6	5	[2, 2, 1, 1, 1]	2.23592635063	0.270061728395	0.054012345679
+667	Thulung (Mukli)	Sino-Tibetan	V	S	post	6	5	[2, 2, 1, 1, 1]	2.23592635063	0.270061728395	0.054012345679
+637	Yamphu	Sino-Tibetan	V	S	post	9	4	[3, 2, 1, 1]	1.84237099318	0.132771088418	0.812432612463
+2996	Yakkha	Sino-Tibetan	V	P	post	13	7	[1, 1, 1, 1, 1, 1, 1]	2.80735492206	0.137830189676	1.11022302463e-16
+2996	Yakkha	Sino-Tibetan	V	Atr	post	13	7	[1, 1, 1, 1, 1, 1, 1]	2.80735492206	0.137830189676	1.11022302463e-16
+1704	Kamaiurá	Tupian	V	P	prae	1	1	[8]	0.0	1.0	0.0
+3250	Xingú Asuriní	Tupian	V	Atr	prae	1	1	[8]	0.0	1.0	0.0
+2865	Wambule	Sino-Tibetan	V	S	post	3	3	[4, 2, 2]	1.5	0.192043895748	0.256058527663
+2882	Berber (Kabyle)	Berber	V	S	prae	3	3	[4, 3, 1]	1.40563906223	0.256058527663	0.448102423411
+2882	Berber (Kabyle)	Berber	V	Atr	post	3	3	[4, 3, 1]	1.40563906223	0.256058527663	0.448102423411
+2998	Jero	Sino-Tibetan	V	S	post	3	3	[4, 3, 1]	1.40563906223	0.256058527663	0.448102423411
+2869	Yagaria	Eastern Highlands	V	P	post	3	1	[8]	0.0	0.000457247370828	0.999542752629
+681	Khanty	Uralic	V	S	post	3	1	[8]	0.0	0.000457247370828	0.999542752629
+681	Khanty	Uralic	V	Atr	post	3	1	[8]	0.0	0.000457247370828	0.999542752629
+1691	Juang	Austroasiatic	V	Atr	prae	3	3	[5, 2, 1]	1.2987949407	0.153635116598	0.704160951075
+1691	Juang	Austroasiatic	V	S	prae	3	3	[5, 2, 1]	1.2987949407	0.153635116598	0.704160951075
+54	Choctaw	Muskogean	V	S	prae	4	3	[4, 3, 1]	1.40563906223	0.1025390625	0.802368164062
+2980	Koyi	Sino-Tibetan	V	S	post	4	3	[5, 2, 1]	1.2987949407	0.0615234375	0.904907226562
+54	Choctaw	Muskogean	V	P	prae	4	2	[4, 4]	1.0	0.00640869140625	0.976684570312
+1413	Chai	Surmic	V	S	post	5	3	[4, 3, 1]	1.40563906223	0.043008	0.9203712
+1413	Chai	Surmic	V	Atr	post	5	3	[4, 3, 1]	1.40563906223	0.043008	0.9203712
+1439	Dumi	Sino-Tibetan	V	S	prae	5	3	[5, 2, 1]	1.2987949407	0.0258048	0.9633792
+1136	Chontal Maya	Mayan	V	S	post	5	3	[3, 3, 2]	1.56127812446	0.043008	0.827904
+2999	Old Thulung (Mukli)	Sino-Tibetan	V	Atr	post	6	5	[4, 1, 1, 1, 1]	2.0	0.0300068587106	0.534122085048
+1036	Blackfoot	Algic	V	S	post	7	5	[2, 2, 2, 1, 1]	2.25	0.18359697065	0.25703575891
+2244	Ojibwa (Eastern)	Algic	V	S	post	7	5	[2, 2, 2, 1, 1]	2.25	0.18359697065	0.25703575891
+3010	Lohorung	Sino-Tibetan	V	Atr	post	7	4	[3, 2, 2, 1]	1.90563906223	0.122397980433	0.731327933089
+2863	Puma	Sino-Tibetan	V	S	post	8	4	[3, 2, 2, 1]	1.90563906223	0.084114074707	0.820412635803
+2668	Munsee	Algic	V	S	prae	8	4	[2, 2, 2, 2]	2.0	0.0105142593384	0.781860351562
+2873	Bantawa	Sino-Tibetan	V	P	post	10	5	[3, 2, 1, 1, 1]	2.15563906223	0.169344	0.716688
+2028	Manambu	Sepik	V	S	post	1	1	[9]	0.0	1.0	0.0
+2028	Manambu	Sepik	V	T	post	1	1	[9]	0.0	1.0	0.0
+2028	Manambu	Sepik	V	P	post	1	1	[9]	0.0	1.0	0.0
+2028	Manambu	Sepik	V	G	post	1	1	[9]	0.0	1.0	0.0
+2476	Sirionó	Tupian	V	S	prae	1	1	[9]	0.0	1.0	0.0
+2476	Sirionó	Tupian	V	Atr	prae	1	1	[9]	0.0	1.0	0.0
+1704	Kamaiurá	Tupian	V	Atr	prae	1	1	[9]	0.0	1.0	0.0
+340	Russian	Indo-European	V	Atr	post	2	1	[9]	0.0	0.00390625	0.99609375
+2172	Nganasan	Uralic	V	S	post	2	1	[9]	0.0	0.00390625	0.99609375
+340	Russian	Indo-European	V	Aditr	post	2	1	[9]	0.0	0.00390625	0.99609375
+340	Russian	Indo-European	V	S	post	2	1	[9]	0.0	0.00390625	0.99609375
+2172	Nganasan	Uralic	V	Atr	post	2	1	[9]	0.0	0.00390625	0.99609375
+2998	Jero	Sino-Tibetan	V	Atr	post	3	3	[5, 3, 1]	1.35164411515	0.153635116598	0.680688919372
+299	Nandi	Nilotic	V	S	prae	3	2	[5, 4]	0.991076059838	0.0384087791495	0.911141594269
+299	Nandi	Nilotic	V	Atr	prae	3	2	[5, 4]	0.991076059838	0.0384087791495	0.911141594269
+1645	Anamuxra	Madang	V	G	prae	4	1	[9]	0.0	1.52587890625e-05	0.999984741211
+1645	Anamuxra	Madang	V	S	post	4	1	[9]	0.0	1.52587890625e-05	0.999984741211
+1645	Anamuxra	Madang	V	Atr	post	4	1	[9]	0.0	1.52587890625e-05	0.999984741211
+1645	Anamuxra	Madang	V	Aditr	post	4	1	[9]	0.0	1.52587890625e-05	0.999984741211
+1645	Anamuxra	Madang	V	P	prae	4	1	[9]	0.0	1.52587890625e-05	0.999984741211
+1439	Dumi	Sino-Tibetan	V	P	post	5	3	[6, 2, 1]	1.22439444541	0.00774144	0.98853888
+1439	Dumi	Sino-Tibetan	V	Atr	post	5	3	[6, 2, 1]	1.22439444541	0.00774144	0.98853888
+632	Hayu	Sino-Tibetan	V	P	post	5	5	[3, 2, 2, 1, 1]	2.19715972342	0.2322432	0.0580608
+667	Thulung (Mukli)	Sino-Tibetan	V	Atr	post	6	5	[4, 2, 1, 1, 1]	2.05881389033	0.0900205761317	0.586634087791
+2999	Old Thulung (Mukli)	Sino-Tibetan	V	P	post	6	5	[3, 3, 1, 1, 1]	2.11328333429	0.0600137174211	0.52662037037
+2360	Camling	Sino-Tibetan	V	P	post	6	6	[4, 1, 1, 1, 1, 1]	2.28103611255	0.00900205761317	0.247556584362
+1142	Cheyenne	Algic	V	S	prae	7	3	[3, 3, 3]	1.58496250072	0.00145711881468	0.982243792977
+1036	Blackfoot	Algic	V	Atr	prae	7	6	[2, 2, 2, 1, 1, 1]	2.50325833478	0.157368831986	0.0577019050614
+3010	Lohorung	Sino-Tibetan	V	S	post	7	4	[3, 3, 2, 1]	1.89106111207	0.0524562773286	0.84061184419
+908	Athpare	Sino-Tibetan	V	P	post	10	7	[3, 1, 1, 1, 1, 1, 1]	2.64160416787	0.0508032	0.2975616
+908	Athpare	Sino-Tibetan	V	Atr	post	10	6	[2, 2, 2, 1, 1, 1]	2.50325833478	0.190512	0.3483648
+2873	Bantawa	Sino-Tibetan	V	Atr	prae	10	4	[4, 2, 2, 1]	1.83659166811	0.0095256	0.97768944
+1973	Menomini	Algic	V	S	post	11	5	[2, 2, 2, 2, 1]	2.28103611255	0.0222188135046	0.79141297626
+563	Passamaquoddy	Algic	V	S	post	12	5	[3, 2, 2, 1, 1]	2.19715972342	0.0696252893519	0.870702924061
+674	Limbu	Sino-Tibetan	V	S	prae	12	6	[3, 2, 1, 1, 1, 1]	2.41938194565	0.162459008488	0.674591692387
+674	Limbu	Sino-Tibetan	V	Atr	prae	12	7	[2, 2, 1, 1, 1, 1, 1]	2.725480557	0.292426215278	0.154722865226
+35	Belhare	Sino-Tibetan	V	P	post	12	7	[2, 2, 1, 1, 1, 1, 1]	2.725480557	0.292426215278	0.154722865226
+35	Belhare	Sino-Tibetan	V	Atr	post	12	6	[2, 2, 2, 1, 1, 1]	2.50325833478	0.162459008488	0.512132683899
+2862	Chintang	Sino-Tibetan	V	P	post	13	5	[3, 2, 2, 1, 1]	2.19715972342	0.0550505195452	0.899464322124
+2862	Chintang	Sino-Tibetan	V	Atr	post	13	6	[3, 2, 1, 1, 1, 1]	2.41938194565	0.146801385454	0.724220168239
+1750	Kharia	Austroasiatic	V	Atr	post	2	1	[10]	0.0	0.001953125	0.998046875
+1750	Kharia	Austroasiatic	V	S	post	2	1	[10]	0.0	0.001953125	0.998046875
+1750	Kharia	Austroasiatic	V	Aditr	post	2	1	[10]	0.0	0.001953125	0.998046875
+2956	Kõic	Sino-Tibetan	V	P	post	3	3	[5, 4, 1]	1.36096404744	0.128029263832	0.693491845755
+2980	Koyi	Sino-Tibetan	V	Atr	post	4	4	[5, 3, 1, 1]	1.68547529723	0.0576782226562	0.691337585449
+923	Arapaho	Algic	V	S	post	5	2	[9, 1]	0.468995593589	2.048e-05	0.999979008
+1775	Kulung	Sino-Tibetan	V	P	post	5	4	[4, 4, 1, 1]	1.72192809489	0.0193536	0.87435264
+667	Thulung (Mukli)	Sino-Tibetan	V	P	post	6	5	[4, 3, 1, 1, 1]	2.04643934467	0.0500114311843	0.695659007773
+559	Murle	Surmic	V	Atr	post	6	3	[6, 3, 1]	1.29546184424	0.00166704770614	0.997275567749
+559	Murle	Surmic	V	S	post	6	3	[6, 3, 1]	1.29546184424	0.00166704770614	0.997275567749
+1036	Blackfoot	Algic	V	P	post	7	6	[2, 2, 2, 2, 1, 1]	2.52192809489	0.0843047314209	0.104912554657
+2551	Atikamekw	Algic	V	S	post	7	5	[3, 2, 2, 2, 1]	2.24643934467	0.112406308561	0.516132300144
+2863	Puma	Sino-Tibetan	V	P	post	8	6	[4, 2, 1, 1, 1, 1]	2.32192809489	0.0591427087784	0.613676011562
+2668	Munsee	Algic	V	Atr	post	8	5	[3, 2, 2, 2, 1]	2.24643934467	0.0788569450378	0.678732991219
+2863	Puma	Sino-Tibetan	V	Atr	prae	8	5	[4, 3, 1, 1, 1]	2.04643934467	0.0262856483459	0.900321006775
+637	Yamphu	Sino-Tibetan	V	Atr	post	9	6	[3, 2, 2, 1, 1, 1]	2.44643934467	0.218553231964	0.470669995979
+674	Limbu	Sino-Tibetan	V	P	post	12	7	[4, 1, 1, 1, 1, 1, 1]	2.52192809489	0.0135382507073	0.669176392104
+57	Chuvash	Turkic	V	Atr	post	2	2	[6, 5]	0.994030211477	0.451171875	0.0
+456	Persian	Indo-European	V	Aditr	NA	2	2	[6, 5]	0.994030211477	0.451171875	0.0
+679	Udmurt	Uralic	V	Atr	post	2	2	[6, 5]	0.994030211477	0.451171875	0.0
+679	Udmurt	Uralic	V	S	post	2	2	[6, 5]	0.994030211477	0.451171875	0.0
+518	Brahui	Dravidian	V	Aditr	post	2	2	[6, 5]	0.994030211477	0.451171875	0.0
+456	Persian	Indo-European	V	S	NA	2	2	[6, 5]	0.994030211477	0.451171875	0.0
+456	Persian	Indo-European	V	Atr	NA	2	2	[6, 5]	0.994030211477	0.451171875	0.0
+518	Brahui	Dravidian	V	Atr	post	2	2	[6, 5]	0.994030211477	0.451171875	0.0
+57	Chuvash	Turkic	V	S	post	2	2	[6, 5]	0.994030211477	0.451171875	0.0
+518	Brahui	Dravidian	V	S	post	2	2	[6, 5]	0.994030211477	0.451171875	0.0
+1105	Chortí	Mayan	V	S	prae	3	3	[5, 5, 1]	1.34858789601	0.046944063405	0.743281003912
+1414	Tirmaga	Surmic	V	Atr	post	5	3	[7, 3, 1]	1.24067053168	0.001622016	0.9972830208
+1414	Tirmaga	Surmic	V	S	post	5	3	[7, 3, 1]	1.24067053168	0.001622016	0.9972830208
+2001	Micmac	Algic	V	S	post	5	4	[6, 3, 1, 1]	1.61718957259	0.011354112	0.947933184
+3007	Bahing	Sino-Tibetan	V	S	post	6	3	[9, 1, 1]	0.865856617457	1.81919888567e-05	0.999962689885
+3007	Bahing	Sino-Tibetan	V	P	post	6	5	[5, 2, 2, 1, 1]	2.04037339369	0.041259430727	0.76498040822
+3010	Lohorung	Sino-Tibetan	V	P	post	7	6	[3, 3, 2, 1, 1, 1]	2.41308843643	0.117758989921	0.365052868756
+59	Cree (Plains)	Algic	V	S	post	8	5	[5, 2, 2, 1, 1]	2.04037339369	0.0162642449141	0.938489958644
+637	Yamphu	Sino-Tibetan	V	P	post	9	7	[3, 2, 2, 1, 1, 1, 1]	2.6635327548	0.200340462634	0.250902579394
+2865	Wambule	Sino-Tibetan	V	P	post	3	3	[9, 2, 1]	1.04085208297	0.00745143863571	0.968687022642
+54	Choctaw	Muskogean	V	Atr	prae	4	4	[4, 4, 3, 1]	1.85538854221	0.0991344451904	0.413610935211
+2980	Koyi	Sino-Tibetan	V	P	post	4	3	[6, 5, 1]	1.32501121082	0.00793075561523	0.978630065918
+2001	Micmac	Algic	V	P	post	5	4	[5, 3, 3, 1]	1.82501121082	0.0272498688	0.8500445184
+682	Yucatec	Mayan	V	P	post	5	2	[6, 6]	1.0	3.784704e-05	0.99981606912
+3044	Gurage (Sebat Bet)	Semitic	V	Aditr	post	5	3	[6, 3, 3]	1.5	0.0022708224	0.98523144192
+3007	Bahing	Sino-Tibetan	V	Atr	post	6	4	[9, 1, 1, 1]	1.20751874964	3.63839777134e-05	0.999786227593
+1660	Itzaj	Mayan	V	P	post	7	2	[6, 6]	1.0	1.40189273716e-06	0.999992786726
+2551	Atikamekw	Algic	V	Atr	post	7	6	[3, 2, 2, 2, 2, 1]	2.52205520887	0.0757022078065	0.225844919956
+1660	Itzaj	Mayan	V	S	post	7	3	[7, 4, 1]	1.28067212952	6.00811173068e-05	0.999856769752
+1973	Menomini	Algic	V	P	post	11	7	[3, 2, 2, 2, 1, 1, 1]	2.68872187554	0.146901246312	0.532656923828
+2657	Udihe	Tungusic	V	S	post	2	2	[7, 6]	0.995727452085	0.4189453125	0.0
+2657	Udihe	Tungusic	V	Aditr	post	2	2	[7, 6]	0.995727452085	0.4189453125	0.0
+2657	Udihe	Tungusic	V	Atr	post	2	2	[7, 6]	0.995727452085	0.4189453125	0.0
+642	Arabic (Egyptian)	Semitic	V	Atr	prae	3	3	[6, 5, 2]	1.46048468131	0.13561618317	0.531163384082
+642	Arabic (Egyptian)	Semitic	V	S	post	3	3	[6, 5, 2]	1.46048468131	0.13561618317	0.531163384082
+682	Yucatec	Mayan	V	S	post	5	3	[7, 4, 2]	1.41955629857	0.00126517248	0.996175724544
+21	Amharic	Semitic	V	Atr	post	5	3	[6, 5, 2]	1.46048468131	0.001771241472	0.993561034752
+21	Amharic	Semitic	V	S	prae	5	3	[6, 5, 2]	1.46048468131	0.001771241472	0.993561034752
+3044	Gurage (Sebat Bet)	Semitic	V	S	post	5	3	[6, 4, 3]	1.52623490995	0.00295206912	0.989273505792
+3044	Gurage (Sebat Bet)	Semitic	V	Atr	post	5	3	[6, 4, 3]	1.52623490995	0.00295206912	0.989273505792
+2001	Micmac	Algic	V	Atr	post	5	5	[7, 3, 1, 1, 1]	1.82302649071	0.00337379328	0.919878795264
+1142	Cheyenne	Algic	V	Atr	post	7	7	[3, 3, 2, 2, 1, 1, 1]	2.66122625627	0.0937265429986	0.0773243979738
+2244	Ojibwa (Eastern)	Algic	V	Atr	post	7	5	[4, 3, 2, 2, 2]	2.25775606413	0.0234316357496	0.779127923826
+2244	Ojibwa (Eastern)	Algic	V	P	post	7	5	[4, 3, 2, 2, 2]	2.25775606413	0.0234316357496	0.779127923826
+2551	Atikamekw	Algic	V	P	post	7	7	[3, 2, 2, 2, 2, 1, 1]	2.71929452567	0.0702949072489	0.00702949072489
+59	Cree (Plains)	Algic	V	P	post	8	4	[5, 4, 2, 2]	1.8843135278	0.000825918687042	0.993613392056
+2668	Munsee	Algic	V	P	post	8	5	[3, 3, 3, 2, 2]	2.29546567918	0.00734149944037	0.860659711179
+59	Cree (Plains)	Algic	V	Atr	prae	8	5	[5, 3, 2, 2, 1]	2.13393756609	0.0132146989927	0.952064875164
+563	Passamaquoddy	Algic	V	Atr	post	12	6	[3, 3, 3, 2, 1, 1]	2.44931183303	0.00746901948744	0.948074411124
+563	Passamaquoddy	Algic	V	P	post	12	6	[3, 3, 3, 2, 1, 1]	2.44931183303	0.00746901948744	0.948074411124
+2865	Wambule	Sino-Tibetan	V	Atr	post	3	3	[10, 2, 2]	1.14883485428	0.00376711619916	0.979450211783
+2956	Kõic	Sino-Tibetan	V	S	post	3	3	[9, 3, 2]	1.28705402812	0.0251141079944	0.919176352596
+1973	Menomini	Algic	V	Atr	post	11	7	[3, 3, 2, 2, 2, 1, 1]	2.69951385032	0.0552397248527	0.719742926095
+923	Arapaho	Algic	V	Atr	post	5	4	[8, 3, 2, 1]	1.61057724333	0.003542482944	0.984416649216
+2029	Moghol	Mongolic	V	Atr	post	2	2	[8, 7]	0.996791631982	0.392761230469	0.0
+2029	Moghol	Mongolic	V	S	post	2	2	[8, 7]	0.996791631982	0.392761230469	0.0
+2956	Kõic	Sino-Tibetan	V	Atr	post	3	3	[9, 4, 2]	1.33826892808	0.031392634993	0.896155086934
+923	Arapaho	Algic	V	P	post	5	4	[8, 4, 2, 1]	1.64022392894	0.002656862208	0.98919900119
+1142	Cheyenne	Algic	V	P	prae	7	7	[3, 3, 3, 2, 2, 1, 1]	2.68924642851	0.0669475307133	0.0702949072489
