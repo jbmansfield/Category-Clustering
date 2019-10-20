@@ -300,7 +300,7 @@ alignment.df %>% mutate(Category = factor(Category, labels=c('A','P'))) %>%
 ggplot(aes(x=CLUST.INDEX)) + geom_histogram(fill='blue') + facet_wrap(~Category) +
   xlab("Paradigmatic Alignment")
 # */
-#' Given these considerations, we fit a *mixture model* that allows both a zero vs. non-zero response and any response value in the interval (0,1).^[For a gentle introduction to mixture models in a Bayesian framework, see @McElreath2016Statistical; a helpful tutorial is provided by Matti Vuorre at \url{https://vuorre.netlify.com/post/2019/02/18/analyze-analog-scale-ratings-with-zero-one-inflated-beta-models}.] Such a model corresponds to what is also known as a *zero-inflated beta model*. The first component is a logistic model with a response $\alpha$ (called `zi` in `brms`), the second a beta model with a response $\mu$. Both responses assume a logit link, so the regression coefficients represent the log odds ratio of probabilities (logistic) or proportions (beta) that they induce on the response with one unit change. Under the parametrization we use here [@Ferrarietal2004Beta;@Cribari-Netoetal2010Beta;@Figueroa-Zunigaetal2013Mixed;@Burkner2018Advanced], the beta model has one more parameter beyond the response $\mu$, often symbolized as $\phi$ (or $\nu$).^[The parameters $\mu$ and $\phi$ correspond to the more familiar parametrization in terms of “shape” parameters $\alpha$ and $\beta$ as follows: $\alpha = \mu\phi$ and $\beta=(1-\mu)\phi$.] The parameter is also known as a precision or overdispersion parameter and captures the inverse of the variance in the model fits.  Here, we model $\phi$ in the same way as the logistic and the beta component, albeit on the log scale (following the `brms` default).
+#' Given these considerations, we fit a *mixture model* that allows both a zero vs. non-zero response and any response value in the interval (0,1).^[For a gentle introduction to mixture models in a Bayesian framework, see @McElreath2016Statistical; a helpful tutorial is provided by Matti Vuorre at \url{https://vuorre.netlify.com/post/2019/02/18/analyze-analog-scale-ratings-with-zero-one-inflated-beta-models}.] Such a model corresponds to what is also known as a *hurdle beta model* (or somewhat less accurately as a *zero-inflated beta model*). The first component is a logistic model with a response $\alpha$ (called `zi` in `brms`), the second a beta model with a response $\mu$. Both responses assume a logit link, so the regression coefficients represent the log odds ratio of probabilities (logistic) or proportions (beta) that they induce on the response with one unit change. Under the parametrization we use here [@Ferrarietal2004Beta;@Cribari-Netoetal2010Beta;@Figueroa-Zunigaetal2013Mixed;@Burkner2018Advanced], the beta model has one more parameter beyond the response $\mu$, often symbolized as $\phi$ (or $\nu$).^[The parameters $\mu$ and $\phi$ correspond to the more familiar parametrization in terms of “shape” parameters $\alpha$ and $\beta$ as follows: $\alpha = \mu\phi$ and $\beta=(1-\mu)\phi$.] The parameter is also known as a precision or overdispersion parameter and captures the inverse of the variance in the model fits.  Here, we model $\phi$ in the same way as the logistic and the beta component, albeit on the log scale (following the `brms` default).
 #'
 #' Like in the Chintang bigram model, we capture the main effects of interest by comparing each marker category, A and P, against an intercept fixed at log odds = 0, i.e. as parallel deviations from equal probabilities/proportions. We control for phylogenetic autocorrelation by including language family as a random intercept.
 #'
@@ -462,7 +462,7 @@ data.frame(x = seq(0, 1, .001)) %>% ggplot(aes(x = x)) +
                                  expression(italic(Beta)(mu==.86, phi==10)),
                                  expression(italic(Beta)(mu==.86, phi==20))
                                  )) +
-  labs(x='Proportion (here, Paradigmatic Alignment Index)',y="Density",color="") +
+  labs(x='Proportion',y="Density",color="") +
   theme(legend.position="top", legend.key.width = unit(1.5, "cm"), legend.text.align=0) +
   guides(color = guide_legend(override.aes = list(size = 1.5), nrow = 2, byrow = T))
 
@@ -594,10 +594,10 @@ pp_check(coherence.brm, n.samples = 100)
 summary(coherence.brm)
 
 #'
-#' We again convert the estimates to the response scale for easier interpretation of the effects. Results are displayed in Table \ref{tab:alignment.brm-tab-print}.
+#' For interpretation we again convert the estimates to the response scale for easier interpretation of the effects. Results are displayed in Table \ref{tab:alignment.brm-tab-print}.
 #'
 #' \captionsetup{margin = 1cm}
-#+ coherence.brm-tab, cache = T
+#+ coherence.brm-tab, cache = F
 coherence.post.probs.df <- posterior_samples(coherence.brm, "^b|^sd") %>%
   mutate_all(plogis) %>%  # inverse of the logit link
   gather(Parameter, Estimate) %>% group_by(Parameter) %>%
@@ -607,37 +607,51 @@ coherence.post.probs.df <- posterior_samples(coherence.brm, "^b|^sd") %>%
             hi = hdi(Estimate, credMass = .95)[2],
             CI = paste0("[", round(lo, 2), ", ", round(hi, 2), "]" ))
 
-#+ coherence.brm-tab-print, echo = F
-coherence.post.probs.df %>%
+#+ coherence.brm-tab-print, echo = F, include = T
+coherence.post.probs.df$Parameter <- factor(coherence.post.probs.df$Parameter,
+                                           levels = c(
+                                             "b_intercept",
+                                             "b_zoi_intercept",
+                                             "b_coi_intercept",
+                                             "sd_Stock__Intercept",
+                                             "sd_Stock__zoi_Intercept",
+                                             "sd_Stock__coi_Intercept"), ordered = T)
+coherence.post.probs.df[order(coherence.post.probs.df$Parameter),] %>%
   mutate(Term = c(rep("Intercept",3), rep("Family", 3)),
-         Parameter = c("$\\gamma$ (\\texttt{coi})", "$\\mu$", "$\\alpha$ (\\texttt{zoi})", "sd($\\gamma$)", "sd($\\mu$)", "sd($\\alpha$)")) %>%
-  select(Term, Parameter, Median, Mean, CI) %>%
-kable(., digits = 2, col.names=c('Term', 'Parameter', 'Median', 'Mean', '95\\%CI (HDI)'), caption.short='Estimated effects in the featural coherence model',
-      caption = 'Estimated effects on the response scale in the featural coherence model, with  highest posterior density intervals.', booktabs = T, linesep = '', escape = F) %>%
+         Parameter = c("$\\mu$ (i.e. $0 > V < 1$)",
+                       "$\\alpha$ (\\texttt{zoi}, i.e. $P(V \\in \\{0,1\\}$))",
+                       "$\\gamma$ (\\texttt{coi}, i.e. $P(V = 1 | V \\in \\{0,1\\}$))",
+                       "sd($\\mu$)",
+                       "sd($\\alpha$)",
+                       "sd($\\gamma$)")
+         ) %>%
+select(Term, Parameter, Median, Mean, CI) %>%
+kable(., digits = 2, col.names=c('Term', 'Parameter', 'Median', 'Mean', '95\\%CI (HDI)'),
+      caption.short='Estimated effects in the featural coherence model',
+      caption = 'Estimated effects on the response scale in the featural coherence model, with  highest posterior density intervals.',
+      booktabs = T, linesep = '', escape = F) %>%
   kable_styling(latex_options = 'hold_position')
 
 # /*
-coherence.post.probs.df$Params <- factor(coherence.post.probs.df$Parameter,
-                                         levels = c(
-                                         "b_intercept",
-                                         "b_zoi_intercept",
-                                         "b_coi_intercept",
-                                         "sd_Stock__Intercept",
-                                         "sd_Stock__zoi_Intercept",
-                                         "sd_Stock__coi_Intercept"))
 quartz()
-ggplot(coherence.post.probs.df) +
-  geom_errorbarh(aes(xmin = lo, xmax = hi, y = reorder(Params, desc(Params))), height = 0.3, size = 1.2) +
-  geom_point(aes(x = Median, y = reorder(Params, desc(Params))), size = 3) +
-  geom_vline(xintercept = 0.5, linetype = 'dashed', size = .3, color = 'blue') +
-  scale_y_discrete(labels = rev(c(expression(paste("(0, 1): ", mu)),
-                                  expression(paste("1 or 0 vs (0, 1): ", alpha)),
-                                  expression(paste("1 vs 0 | (1 or 0): ", gamma)),
-                                  expression(paste('SD(',mu,'|Family)')),
-                                  expression(paste('SD(',alpha,'|Family)')),
-                                  expression(paste('SD(',gamma,'|Family)'))
+
+ggplot(coherence.post.probs.df[c(2,3,1),]) +
+  geom_errorbarh(aes(xmin = lo, xmax = hi, y = reorder(Parameter, desc(Parameter))),
+                 height = 0.3, size = 1.2) +
+  geom_point(aes(x = Median, y = reorder(Parameter, desc(Parameter))), size = 3) +
+  # geom_vline(xintercept = 0.5, linetype = 'dashed', size = .3, color = 'blue') +
+  scale_y_discrete(labels = rev(c(expression({0>V}*phantom()<1),
+                                  # expression(italic(P)(V==1)),
+                                  # expression(italic(P)(V==0))
+                                  expression(italic(P)(V %in% {group("{",list(0,1),"}")})),
+                                  expression(italic(P)(V==1~"|"~V %in% {group("{",list(0,1),"}")}))
+                                  # expression(paste("1: ", gamma, alpha)),
+                                  # expression(paste("0: ", (1 - gamma), alpha)),
+                                  # expression(paste('SD(',mu,' | Family)')),
+                                  # expression(paste('SD(',alpha,' | Family)')),
+                                  # expression(paste('SD(',gamma,' | Family)'))
                                   ))) +
-  ylab("") + xlab("Estimated Featural Coherence") +
+  ylab("") + xlab(expression(paste("Estimated Featural Coherence", italic(V)))) +
   xlim(0,1)
 # */
 #'
