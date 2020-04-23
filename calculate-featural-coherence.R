@@ -1,4 +1,4 @@
-dist.align <- read.table("distinctive-alignment-crmv.txt", sep="\t", header = TRUE)
+dist.align <- read.table("distinctive-alignment.txt", sep="\t", header = TRUE)
 
 # The variable names used here correspond to terminology used in our paper as follows:
 # dist.align = "featural coherence"
